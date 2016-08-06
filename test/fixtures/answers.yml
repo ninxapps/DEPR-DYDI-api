@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  choice: false
+  user: one
+  question: one
+
+two:
+  choice: false
+  user: two
+  question: two
